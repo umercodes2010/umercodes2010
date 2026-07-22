@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://camo.githubusercontent.com/84182a1cc630c21561c1ff51cfe3fa460b027d37e2db172d24b0544a668ea271/68747470733a2f2f692e67696665722e636f6d2f383152412e676966" width="100%" />
-</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/umercodes2010/umercodes2010/main/banner.png" width="100%">
 </p>
@@ -10,8 +8,10 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Umer</h1>
 <h3 align="center">💻 Aspiring Software Engineer from Pakistan 🇵🇰</h3>
+<p align="center">
+  <img src="https://camo.githubusercontent.com/84182a1cc630c21561c1ff51cfe3fa460b027d37e2db172d24b0544a668ea271/68747470733a2f2f692e67696665722e636f6d2f383152412e676966" width="100%" />
+</p>
 
-<img src="https://camo.githubusercontent.com/84182a1cc630c21561c1ff51cfe3fa460b027d37e2db172d24b0544a668ea271/68747470733a2f2f692e67696665722e636f6d2f383152412e676966"
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Learning+HTML+CSS+JavaScript+React;Future+Full+Stack+Developer;Welcome+to+my+GitHub!" />
