@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/umercodes2010/umercodes2010/main/banner.png" alt="Muhammad Umer Banner" width="100%">
 </p>
@@ -29,8 +30,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umercodes2010&show_icons=true&theme=tokyonight)
 
 ---
@@ -41,7 +40,6 @@
 
 ---
 
-## 📈 Most Used Languages
 ## 📈 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umercodes2010&layout=compact&theme=tokyonight)
