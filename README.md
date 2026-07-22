@@ -29,6 +29,8 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umercodes2010&show_icons=true&theme=tokyonight)
 
 ---
@@ -39,6 +41,7 @@
 
 ---
 
+## 📈 Most Used Languages
 ## 📈 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umercodes2010&layout=compact&theme=tokyonight)
