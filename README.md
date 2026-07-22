@@ -104,6 +104,12 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744275-2e0c4830-4bcb-4f5d-9b5b-9d4d58d7d2a6.gif" width="100%">
 </p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/umercodes2010/umercodes2010/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 ---
 
 ⭐ Thanks for visiting my profile!
