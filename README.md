@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/umercodes2010/umercodes2010/main/banner.png" alt="Muhammad Umer Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Muhammad Umer</h1>
 <h3 align="center">💻 Aspiring Software Engineer from Pakistan 🇵🇰</h3>
 
