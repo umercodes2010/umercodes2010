@@ -55,28 +55,8 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744275-2e0c4830-4bcb-4f5d-9b5b-9d4d58d7d2a6.gif" width="100%">
 </p>
+  
 
-# 📈 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umercodes2010&layout=compact&theme=tokyonight)
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744275-2e0c4830-4bcb-4f5d-9b5b-9d4d58d7d2a6.gif" width="100%">
-</p>
----
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=umercodes2010&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744275-2e0c4830-4bcb-4f5d-9b5b-9d4d58d7d2a6.gif" width="100%">
-</p>
-# 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=umercodes2010&theme=tokyonight&no-frame=true)
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744275-2e0c4830-4bcb-4f5d-9b5b-9d4d58d7d2a6.gif" width="100%">
-</p>
 ---
 
 # 🚀 Featured Projects
